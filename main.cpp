@@ -44,9 +44,6 @@ int main()
     {
         power_array[count] = power_array[count-1 ]*power_array[count-1 ] ;
     }
- //  for(int count = 0 ;count < 10 ; count++ )
-   //    result_ind [count] = power_array[count]*power_used[count];
-
   for(int count = 0 ; count < 10 ; count++ )
   {
       if(power_used[count]==0)
