@@ -54,7 +54,7 @@ int main()
     cout << 1/result << endl ;
   else
    cout << result << endl;
-   cout << "Result result should be " << pow(integer , exp );
+// cout << "Result result should be " << pow(integer , exp );
     return 0;
 
 }
